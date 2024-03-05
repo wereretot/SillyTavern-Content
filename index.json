@@ -66,6 +66,11 @@
   },
   {
     "type": "bgm",
+    "id": "Lonely Snowly Grave - bittersweet\u2044horror.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Lonely Snowly Grave - bittersweet\u2044horror.ogg"
+  },
+  {
+    "type": "bgm",
     "id": "cup-of-cohee.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
   },
